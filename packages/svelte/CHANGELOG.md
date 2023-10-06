@@ -1,5 +1,11 @@
 # svelte
 
+## 4.2.2
+
+### Patch Changes
+
+- chore: upgrade magic-string to 0.30.4 ([#9292](https://github.com/sveltejs/svelte/pull/9292))
+
 ## 4.2.1
 
 ### Patch Changes
